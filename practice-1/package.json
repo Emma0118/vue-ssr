@@ -1,0 +1,10 @@
+{
+  "name": "practice-1",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.2",
+    "vue": "^2.5.13",
+    "vue-router": "^3.0.1",
+    "vue-server-renderer": "^2.5.13"
+  }
+}
